@@ -97,3 +97,12 @@
 .evergreen .paper-status{display:block;margin-top:5px;font-size:10px;color:var(--accent)}
 @media(max-width:680px){.evergreen .publication-scroll{max-height:min(24rem,65svh);padding:13px 11px}.evergreen .publication-list-header{flex-wrap:wrap;gap:3px 12px}}
 @media print{.evergreen .publication-scroll{max-height:none;overflow:visible;border:0;padding:0;scrollbar-gutter:auto}.evergreen .publication-scroll-hint{display:none}.evergreen .contribution{break-inside:auto}.evergreen .publication-scroll li{break-inside:avoid}}
+
+/* Small, text-first application directory. */
+.evergreen .applications{border-top:1px solid var(--line);padding:28px 0 34px}
+.evergreen .applications>h2{position:relative;font-size:23px}
+.evergreen .applications>h2::before{content:'';position:absolute;left:calc(var(--rail-offset) - 5px);top:.55em;width:12px;height:4px;background:var(--accent)}
+.evergreen .application h3{font-size:16px;margin-bottom:9px}
+.evergreen .application p{font-size:14px;line-height:1.65;max-width:650px}
+.evergreen .application-link{display:inline-block;margin-top:12px;font-size:12px}
+@media(max-width:680px){.evergreen .applications>h2{font-size:22px}.evergreen .applications>h2::before{left:-21px;width:8px}.evergreen .application p{font-size:13px}}
