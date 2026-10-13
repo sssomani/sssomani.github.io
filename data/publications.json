@@ -1,0 +1,583 @@
+{
+  "contributions": [
+    {
+      "id": "ecg",
+      "groups": [
+        {
+          "label": "ECGs & predictive models",
+          "publications": [
+            {
+              "title": "A Deep Learning Phenome Wide Association Study of the Electrocardiogram",
+              "authors": "Hughes JW, Theurer J, Vukadinovic M, Rogers AJ, Somani S, et al",
+              "venue": "European Heart Journal – Digital Health",
+              "year": 2025,
+              "status": null,
+              "url": "https://doi.org/10.1093/ehjdh/ztaf047",
+              "id": 11
+            },
+            {
+              "title": "Simple models vs. deep learning in detecting low ejection fraction from the electrocardiogram",
+              "authors": "Hughes JW, Somani S, Elias P, Tooley J, Rogers AJ, Poterucha T, Haggerty CM, Salerno M, Ouyang D, Ashley EA, Zou J, Perez MV",
+              "venue": "European Heart Journal: Digital Health",
+              "year": 2024,
+              "status": null,
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11284011/",
+              "id": 16
+            },
+            {
+              "title": "Development and Validation of a Rapid Visual Technique for Left Ventricular Hypertrophy Detection from the Electrocardiogram",
+              "authors": "Somani S, Hughes JW, Ashley EA, Witteles RM, Perez MV",
+              "venue": "Frontiers in Cardiovascular Medicine",
+              "year": 2023,
+              "status": null,
+              "url": null,
+              "id": 18
+            },
+            {
+              "title": "Enhancing convolutional neural network predictions of electrocardiograms with left ventricular dysfunction using a novel sub-waveform representation",
+              "authors": "Honarvar H, Agarwal C, Somani S, Vaid A, Lampert J, Wanyan T, Reddy VK, Nadkarni GN, Miotto R, Zitnik M, Wang F, Glicksberg BS",
+              "venue": "Cardiovascular Digital Health Journal",
+              "year": 2022,
+              "status": null,
+              "url": null,
+              "id": 22
+            },
+            {
+              "title": "Development of a Machine Learning Model Using Electrocardiogram Signals to Improve Pulmonary Embolism Screening",
+              "authors": "Somani S, Honarvar H, Narula S, Landi I, Lee S, Khachatoorian Y, Rehmani A, Kim A, De Freitas JK, Teng S, Jaladanki S, Kumar A, Russak A, Zhao SP, Freeman R, Levin MA, Nadkarni GN, Kagen AC, Argulian E, Glicksberg BS",
+              "venue": "European Heart Journal: Digital Health",
+              "year": 2022,
+              "status": null,
+              "url": "https://doi.org/10.1093/ehjdh/ztab101",
+              "id": 23
+            },
+            {
+              "title": "Using deep learning algorithms to simultaneously identify right and left ventricular dysfunction from the electrocardiogram",
+              "authors": "Vaid A, Johnson KW, Badgeley MA, Somani S, Bicak M, Landi I, Russak AJ, Zhao S, Levin MA, Freeman RM, Charney AW, Kukar A, Kim B, Danilov T, Lerakis S, Argulian E, Narula J, Nadkarni GN, Glicksberg BS",
+              "venue": "JACC Cardiovascular Imaging",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 24
+            },
+            {
+              "title": "Deep Learning and the Electrocardiogram: Review of the Current State of the Art",
+              "authors": "Somani S, Russak AJ, Richter F, Zhao S, Chaudhry F, De Freitas JK, Naik N, Miotto R, Nadkarni GN, Narula J, Argulian E, Glicksberg BS",
+              "venue": "EuroPace",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 25
+            }
+          ]
+        },
+        {
+          "label": "Patent",
+          "publications": [
+            {
+              "title": "System and Method for Pulmonary Embolism Detection from the Electrocardiogram Using Deep Learning",
+              "authors": "Somani S, Glicksberg B, Nadkarni G",
+              "venue": "US Patent 12,424,327",
+              "year": null,
+              "status": null,
+              "url": null,
+              "id": 3
+            }
+          ]
+        },
+        {
+          "label": "Related electrophysiology, imaging & reviews",
+          "publications": [
+            {
+              "title": "Identifying the Presence and Characteristics of Mid-Myocardial and Epicardial Fibrosis From Intracardiac Electrograms in Patients Undergoing Ventricular Arrhythmia Ablation Using a Transformer-Based Self-Supervised Classifier",
+              "authors": "Liu X, Qayyum A, Bandyopadhyay S, Somani S, Ganesan P, Ansari RA, Chang HJ, Perino AC, Badhwar N, Wang PJ, Niederer S, Narayan SM, Rogers AJ",
+              "venue": "Circulation: Arrhythmia and Electrophysiology",
+              "year": 2026,
+              "status": null,
+              "url": "https://doi.org/10.1161/CIRCEP.125.014765",
+              "id": 6
+            },
+            {
+              "title": "Just in time: detecting cardiac arrest with smartwatch technology",
+              "authors": "Somani S, Rogers AJ",
+              "venue": "Lancet Digital Health",
+              "year": 2024,
+              "status": null,
+              "url": null,
+              "id": 14
+            },
+            {
+              "title": "Advances in cardiac pacing with leadless pacemakers and conduction system pacing",
+              "authors": "Somani S, Rogers AJ",
+              "venue": "Current Opinion in Cardiology",
+              "year": 2024,
+              "status": null,
+              "url": null,
+              "id": 15
+            },
+            {
+              "title": "Artificial Intelligence in Cardiovascular Disease Prevention: Is it Ready for Prime Time?",
+              "authors": "Parsa S, Somani S, Dudum R, Jain SS, Rodriguez F",
+              "venue": "Current Atherosclerosis Reports",
+              "year": 2024,
+              "status": null,
+              "url": null,
+              "id": 17
+            },
+            {
+              "title": "Segmentation of Computed Tomograms for Cardiac Ablation Using Machine Learning Accelerated by Domain Knowledge Encoding",
+              "authors": "Feng R, Deb B, Ganesan P, Tjong FV, Rogers AJ, Ruiperez-Campillo S, Somani S, Clopton P, Baykaner T, Rodrigo M, Zou J, Haddad F, Zahari M, Narayan SM",
+              "venue": "Frontiers in Cardiovascular Medicine",
+              "year": 2023,
+              "status": null,
+              "url": null,
+              "id": 20
+            },
+            {
+              "title": "Artificial intelligence in cardiac electrophysiology",
+              "authors": "Somani S, Narayan SM, Rogers AJ",
+              "venue": "Artificial Intelligence in Clinical Practice, 1st ed. Elsevier",
+              "year": 2023,
+              "status": null,
+              "url": null,
+              "id": 60
+            },
+            {
+              "title": "Machine Learning in Cardiology - Ensuring Clinical Impact Lives up to the Hype",
+              "authors": "Russak AJ, Chaudhry F, De Freitas JK, Baron G, Chaudhry FF, Bienstock S, Paranjpe I, Vaid A, Ali M, Zhao S, Somani S, Richter F, Bawa T, Levy PD, Miotto R, Nadkarni GN, Johnson KW, Glicksberg BS",
+              "venue": "Journal of Cardiovascular Pharmacology and Therapeutics",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "groups": [
+        {
+          "label": "Guideline-recommended care",
+          "publications": [
+            {
+              "title": "AI-Identified Reasons for Non-Escalation of Lipid-Lowering Therapy for Secondary Prevention",
+              "authors": "Somani S, Kim DD, Ramaraju V, Ngo S, Babu C, Bouladian S, Chen T, King S, Perez-Guerrero E, Ronaghi S, Hwang J, Maron D, Hernandez-Boussard T, Alsentzer E*, Rodriguez F*",
+              "venue": "JAMA Cardiology",
+              "year": 2026,
+              "status": "In revisions",
+              "url": null,
+              "id": 4
+            },
+            {
+              "title": "Understanding reasons for oral anticoagulation nonprescription in atrial fibrillation using large language models",
+              "authors": "Somani S, Kim DD, et al",
+              "venue": "Journal of the American Heart Association",
+              "year": 2025,
+              "status": null,
+              "url": "https://doi.org/10.1161/JAHA.124.040419",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "label": "Related clinical AI & methods",
+          "publications": [
+            {
+              "title": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+              "authors": "Cahoon JL, Stanwyck CO, Somani S, Chung P, Keet KR, Black KC, Fisher AT, Khemani S, Liu J, Ma S, Maharaj SK, Pandya RM, Perez-Guerrero E, Pillai P, Shieh L, Wu DJH, Xie J, McAvoy JC, Nguyen T, Tran J, Yin L, Lin B, Callahan A, Fries JA, Shah NH, Alsentzer E",
+              "venue": "Nature Medicine",
+              "year": 2026,
+              "status": "In review",
+              "url": null,
+              "id": 5
+            },
+            {
+              "title": "Population scale latent space cohort matching for the improved use and exploration of observational trial data",
+              "authors": "Somani S*, Gologorsky R*, Neifert SN, Valliani AA, Link KE, Chen VJ, Costa AB, Oermann EK",
+              "venue": "Mathematical Biosciences and Engineering",
+              "year": 2022,
+              "status": null,
+              "url": null,
+              "id": 21
+            },
+            {
+              "title": "Development and Validation of Techniques for Phenotyping ST-Elevation Myocardial Infarction From Electronic Health Records",
+              "authors": "Somani S, Yoffie S, Teng S, Havaldar J, Zhao SP, Glicksberg BS",
+              "venue": "JAMIA Open",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 26
+            },
+            {
+              "title": "Health Equity in Artificial Intelligence and Primary Care Research: Protocol for a Scoping Review",
+              "authors": "Somani S*, Wang J*, Chen J, Murray K, Sarkar U",
+              "venue": "JMIR Research Protocols",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perceptions",
+      "groups": [
+        {
+          "label": "Publications",
+          "publications": [
+            {
+              "title": "Large Language Modeling–Enabled Analysis of Atrial Fibrillation on Social Media",
+              "authors": "Somani S*, Parsa S*, Rogers AJ, Hernandez-Boussard TH, Jain SS, Rodriguez F",
+              "venue": "Journal of the American Heart Association",
+              "year": 2026,
+              "status": null,
+              "url": null,
+              "id": 8
+            },
+            {
+              "title": "Attitudes and Beliefs Around Glucagon-Like Peptide-1 Receptor Agonists on Social Media Using Large Language Models",
+              "authors": "Somani S, Jain SS, Sarraju A, Sandhu AT, Hernandez-Boussard T, Rodriguez F",
+              "venue": "Communications Medicine",
+              "year": 2024,
+              "status": null,
+              "url": null,
+              "id": 12
+            },
+            {
+              "title": "Contemporary Attitudes and Beliefs on Coronary Artery Calcium from Social Media Using Artificial Intelligence",
+              "authors": "Somani S, Balla S, Peng AW, Dudum R, Jain S, Nasir K, Maron DJ, Hernandez-Boussard T, Rodriguez F",
+              "venue": "npj Digital Medicine",
+              "year": 2024,
+              "status": null,
+              "url": "https://doi.org/10.1038/s41746-024-01077-w",
+              "id": 13
+            },
+            {
+              "title": "Artificial Intelligence-Enabled Analysis of Statin-Related Topics and Sentiments on Social Media",
+              "authors": "Somani S, von Buchem M, Sarraju A, Hernandez-Boussard T, Rodriguez F",
+              "venue": "JAMA Network Open",
+              "year": 2023,
+              "status": null,
+              "url": "https://doi.org/10.1001/jamanetworkopen.2023.9747",
+              "id": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "implants",
+      "groups": [
+        {
+          "label": "Patient-specific implant patents",
+          "publications": [
+            {
+              "title": "Custom Hip Design and Insertability Analysis",
+              "authors": "Somani S",
+              "venue": "U.S. Patent 12,303,393",
+              "year": 2025,
+              "status": null,
+              "url": null,
+              "id": 2
+            },
+            {
+              "title": "Apparatus, Method, and System for Providing Customizable Bone Implants",
+              "authors": "Unis DB, Somani S, Costa AC",
+              "venue": "U.S. Patent 10,945,848",
+              "year": null,
+              "status": null,
+              "url": null,
+              "id": 1
+            }
+          ]
+        },
+        {
+          "label": "Related orthopedic outcomes",
+          "publications": [
+            {
+              "title": "Impact of Age on 30-day Complications after Adult Deformity Surgery",
+              "authors": "Phan K, Kim J, Somani S, Di Capua J, Kim JH, Shin J, Cho SK",
+              "venue": "Spine",
+              "year": 2018,
+              "status": null,
+              "url": null,
+              "id": 41
+            },
+            {
+              "title": "Anesthesia Duration as an Independent Risk Factor for Early Postoperative Complications in Adults Undergoing Elective ACDF",
+              "authors": "Phan K, Kim J, Kim JH, Somani S, Di Capua J, Dowdell J, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 42
+            },
+            {
+              "title": "High-Risk Subgroup Membership Is a Predictor of 30-Day Morbidity Following Anterior Lumbar Fusion",
+              "authors": "Bronheim RS, Kim JS, Di Capua J, Lee NJ, Kothari P, Somani S, Phan K, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 43
+            },
+            {
+              "title": "Intramedullary Nail Fixation of Atypical Femur Fractures With Bone Marrow Aspirate Concentrate Leads to Faster Union: A Case-Control Study",
+              "authors": "Lovy AJ, Kim JS, Di Capua J, Somani S, Shim S, Keswani A, Hasija R, Wu Y, Joseph D, Ghillani R",
+              "venue": "Journal of Orthopaedic Trauma",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 44
+            },
+            {
+              "title": "Bone morphogenetic protein use in spine surgery in the United States: how have we responded to the warnings?",
+              "authors": "Guzman JZ, Merrill RK, Kim JS, Overley SC, Dowdell JE, Somani S, Hecht AC, Cho SK, Qureshi SA",
+              "venue": "Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 45
+            },
+            {
+              "title": "Predictors for Patient Discharge Destination After Elective Anterior Cervical Discectomy and Fusion",
+              "authors": "Di Capua J, Somani S, Kim JS, Lee NJ, Kothari P, Phan K, Lugo-Fagundo N, Cho SK",
+              "venue": "Spine",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 46
+            },
+            {
+              "title": "Analysis of Risk Factors for Major Complications Following Elective Posterior Lumbar Fusion",
+              "authors": "Di Capua J, Somani S, Kim JS, Phan K, Lee NJ, Kothari P, Cho SK",
+              "venue": "Spine",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 47
+            },
+            {
+              "title": "Impact of Preoperative Anemia on Outcomes in Adults Undergoing Elective Posterior Cervical Fusion",
+              "authors": "Phan K, Dunn AE, Ki J, Di Capua J, Somani S, Kothari P, Lee NJ, Xu J, Dowdell J, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 48
+            },
+            {
+              "title": "Thirty-Day Morbidity Associated with Pelvic Fixation in Adult Patients Undergoing Fusion for Spinal Deformity: A Propensity-Matched Analysis",
+              "authors": "Kothari P, Somani S, Lee NJ, Guzman JZ, Leven DM, Skovrlj B, Steinberger J, Kim J, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 49
+            },
+            {
+              "title": "Hospital Acquired Conditions (HACs) in Adult Spinal Deformity Surgery: Predictors for HACs and Other 30-day Postoperative Outcomes",
+              "authors": "Di Capua J, Somani S, Kim J, Leven D, Kothari P, Lee N, Cho SK",
+              "venue": "Spine",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 50
+            },
+            {
+              "title": "Comparing NIS and NSQIP: An Independent Risk Factor Analysis for Risk Stratification in Anterior Cervical Discectomy and Fusion",
+              "authors": "Somani S, Di Capua J, Kim J, Kothari P, Lee N, Leven D, Cho SK",
+              "venue": "Spine",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 51
+            },
+            {
+              "title": "Elderly Age as a Risk Factor for 30-Day Postoperative Outcomes Following Elective Anterior Cervical Discectomy and Fusion",
+              "authors": "Di Capua J, Somani S, Kim J, Phan K, Lee N, Kothari P, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 52
+            },
+            {
+              "title": "Early Complications and Outcomes in Adult Spinal Deformity Surgery: A NSQIP Study Based on 5,803 Patients",
+              "authors": "Lee N, Kothari P, Kim J, Shin J, Phan K, Di Capua J, Somani S, Leven D, Guzman J, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 53
+            },
+            {
+              "title": "Outcomes of short fusion vs long fusion for adult degenerative scoliosis: A systematic review and meta-analysis",
+              "authors": "Phan K, Xu J, Maharaj M, Kim J, Li J, Di Capua J, Somani S, Tan K, Mobbs R, Cho SK",
+              "venue": "Orthopaedic Surgery",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 54
+            },
+            {
+              "title": "Frailty is Associated with Morbidity in Adults Undergoing Elective Anterior Lumbar Interbody Fusion Surgery (ALIF)",
+              "authors": "Phan K, Kim J, Lee N, Somani S, Di Capua J, Kothari P, Leven D, Cho SK",
+              "venue": "The Spine Journal",
+              "year": 2017,
+              "status": null,
+              "url": null,
+              "id": 55
+            },
+            {
+              "title": "ASA Classification as a Risk Stratification Tool in Adult Spinal Deformity Surgery: A Study of 5,805 Patients",
+              "authors": "Somani S, Di Capua J, Kim J, Phan K, Lee N, Kothari P, Kim JH, Dowdell J, Cho SK",
+              "venue": "Global Spine Journal",
+              "year": 2016,
+              "status": null,
+              "url": null,
+              "id": 58
+            }
+          ]
+        },
+        {
+          "label": "Related image processing",
+          "publications": [
+            {
+              "title": "Automatic segmentation and visualization of intracerebral electrodes from CT scans in stereotactic electroencephalography",
+              "authors": "Somani S, Panov F, Costa AB",
+              "venue": "Supercomputing",
+              "year": 2016,
+              "status": null,
+              "url": null,
+              "id": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "informatics",
+      "groups": [
+        {
+          "label": "COVID-19 publications",
+          "publications": [
+            {
+              "title": "Contrastive Learning Improves Critical Event Prediction in COVID-19 Patients",
+              "authors": "Wanyan T, Honarvar H, Jaladanki SK, Zang C, Naik N, Somani S, De Freitas JK, Paranjpe I, Vaid A, Miotto R, Nadkarni GNN, Zitnik M, Wang F, Ding Y, Glicksberg BS",
+              "venue": "Patterns",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 28
+            },
+            {
+              "title": "Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19",
+              "authors": "Vaid A, Jaladanki S, Xu J, Teng S, Kumar K, Lee S, Somani S, Paranjpe I, De Freitas JK, Wanyan T, Johnson KW, Bicak M, Klang E, Kwon F, Costa A, Zhao S, Miotto R, Charney AW, Bottinger E, Fayad ZA, Nadkarni GN, Glicksberg BS",
+              "venue": "Journal of Medical Internet Research",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 29
+            },
+            {
+              "title": "Outcomes of Patients on Maintenance Dialysis Hospitalized with COVID-19",
+              "authors": "Chan L, Jadalanki S, Somani S, Paranjpe I, Kumar A, Zhao S, Kaufman L, Leisman S, Sharma S, He JC, Murphy B, Fayad Z, Levin MA, Bottinger EP, Charney AW, Glicksberg BS, Coca SG, Nadkarni GN",
+              "venue": "Clinical Journal of the American Society of Nephrology",
+              "year": 2021,
+              "status": null,
+              "url": null,
+              "id": 30
+            },
+            {
+              "title": "Characterization of Patients Who Return to Hospital Following Discharge from Hospitalization For COVID-19",
+              "authors": "Somani S, Richter F, Fuster V, De Freitas J, Naik N, Sigel K, Bottinger EP, Levin MA, Fayad Z, Just AC, Charney AW, Zhao S, Glicksberg BS, Lala A, Nadkarni GN",
+              "venue": "Journal of General Internal Medicine",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 31
+            },
+            {
+              "title": "Relational Learning Improves Prediction of Mortality in COVID-19 in the Intensive Care Unit",
+              "authors": "Wanyan T, Vaid A, De Freitas JK, Somani S, Miotto R, Nadkarni GNN, Azad A, Ding Y, Glicksberg BS",
+              "venue": "IEEE Transactions on Big Data",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 32
+            },
+            {
+              "title": "Machine learning to predict mortality and critical events in a cohort of patients with COVID-19 in New York City: model development and validation",
+              "authors": "Vaid A, Somani S, Russak AJ, et al.",
+              "venue": "Journal of Medical Internet Research",
+              "year": 2020,
+              "status": null,
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7652593/",
+              "id": 33
+            },
+            {
+              "title": "Rethinking United States Blood Donation Policies in the Time of COVID-19",
+              "authors": "Park C, Gellman C, O’Brien M, Eidelberg A, Subudhi I, Gorodetsky EF, Asriel B, Furlow A, Mullen M, Nadkarni GN, Somani S, Sigel, K, Reich DL",
+              "venue": "American Journal of Public Health",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 34
+            },
+            {
+              "title": "Acute Kidney Injury in Covid-19 patients",
+              "authors": "Chan L, Chaudhary K, Saha A, Chauhan K, Vaid A, Zhao S, Paranjpe I, Somani S, Richter F, Do R, Miotto R, Lala A, Kia A, Timsina P, Li L, Danieletto M, Golden E, Glowe P, Zweig M, Singh M, Freeman R, Chen R, Nestler E, Narula J, Just AC, Horowitz C, Aberg J, Loos RJF, Cho J, Fayad Z, Cordon-Cardo C, Schadt E, Levin MA, Reich DL Fuster V, Murphy B, He JC, Charney AW, Böttinger EP, Glicksberg BS, Coca SG, Nadkarni GN",
+              "venue": "Journal of the American Society of Nephrology",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 35
+            },
+            {
+              "title": "Coronavirus 2019 and People Living With Human Immunodeficiency Virus: Outcomes for Hospitalized Patients in New York City",
+              "authors": "Sigel KM, Swartz T, Golden E, Paranjpe I, Somani S, Richter F, De Freitas JK, Miotto R, Zhao S, Polak P, Mutetwa T, Factor S, Mehandru S, Mullen M, Cossarini F, Bottinger E, Fayad Z, Merad M, Gnjatic S, Aberg J, Charney A, Nadkarni G, Glicksberg BS",
+              "venue": "Clinical Infectious Diseases",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 36
+            },
+            {
+              "title": "Prevalence and Impact of Myocardial Injury in Patients Hospitalized with COVID-19 Infection",
+              "authors": "Lala A, Kipp Johnson KP, Januzzi J, Russak A, Paranjpe I, Zhao S, Somani S, Tielman VV, Vaid A, Chaudhry F, De Freitas J, Richter F, Fayad Z, Pinney SP, Levin MA, Charney AW, Bagiella E, Narula J, Glicksberg BS, Nadkarni GN, Mancini D, Fuster V",
+              "venue": "Journal of the American College of Cardiology",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 37
+            },
+            {
+              "title": "Outcomes of Patients Presenting with Headaches Hospitalized with COVID-19",
+              "authors": "Jaladanki SK, Kumar A, Van Vleck T, Somani S, Zhao S, Nadkarni GN, Charney AW",
+              "venue": "Annals of Neurology",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 38
+            },
+            {
+              "title": "Retrospective cohort study of clinical characteristics of 2199 hospitalised patients with COVID-19 in New York City",
+              "authors": "Paranjpe I, Russak AJ, De Freitas JK, Lala A, Miotto R, Vaid, A, Johnson KW, Danieletto M, Golden E, Meyer D, Singh M, Somani S, Kapoor A, O’Hagan R, Manna S, Nangia U, Jaladanki SK, O’Reilly P, Huckins LM, Glowe P, Kia A, Timsina P, Freeman RM, Levin MA, Jhang J, Firpo A, Kovatch P, Finkelstein J, Aberg JA, Bagiella E, Horowitz CR, Murphy B, Fayad ZA, Narula J, Nestler EJ, Fuster V, Cordon-Cardo C, Charney D, Reich DL, Just A, Bottinger EP, Charney AW, Glicksberg BS, Nadkarni GN",
+              "venue": "BMJ Open",
+              "year": 2020,
+              "status": null,
+              "url": null,
+              "id": 39
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

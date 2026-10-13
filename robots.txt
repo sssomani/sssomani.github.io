@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sssomani.github.io/sitemap.xml
